@@ -1,9 +1,9 @@
 # 3DStringArt
 3D String Art v1.0 &amp; Graphics Demo v9938/58 (1988/1990) by Oasis Pensive Abacutors / GARYOPA
 
-SOURCE CODE RELEASE by Oasis Pensive Abacutors and Gary Bowser (aka) GARYOPA
-FROM THE O.P.A. 1988/1990 ARCHIVES
-36 YEARS SITTING IN A TEXAS INSTRUMENTS 99/4A TIME CAPSULE
+/ SOURCE CODE RELEASE by Oasis Pensive Abacutors and Gary Bowser (aka) GARYOPA
+/ FROM THE O.P.A. 1988/1990 ARCHIVES
+/ 36 YEARS SITTING IN A TEXAS INSTRUMENTS 99/4A TIME CAPSULE
 
 The other day on the TI99 Zoom Call, a developer inquired about the graphics running in the background on my system, so as promised I have now publicly released the source code from what I originally called 3D STRING ART, which was written back in 1988 for the Myarc Geneve 9640 and then updated in 1990 for my TI-Image-Maker and Dijit AVPC cards, it will NOT run on consoles with the F18A upgrade, but it will run perfectly on any v9938 / v9958 system and it should on MAME setup as well, but I have not tested it.
 
