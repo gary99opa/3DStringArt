@@ -9,7 +9,7 @@ The other day on the TI99 Zoom Call, a developer inquired about the graphics run
 
 In this GITHUB repo, only the source files are included, if you wish to find already complied versions for the Texas Instruments TI-99/4a Home Computer to run on your real hardware, please visit our original release post in the TI99 section of AtariAge forums at this URL:
 
-<a href="https://forums.atariage.com/topic/364736-release-3d-string-art-v10-graphics-demo-v993858-19881990-by-oasis-pensive-abacutors-garyopa/"></a>
+https://forums.atariage.com/topic/364736-release-3d-string-art-v10-graphics-demo-v993858-19881990-by-oasis-pensive-abacutors-garyopa/
 
 Also please NOTE the "copyright" notices in the various files, mainly the VDP-LIB file, I will be adding some documentation on how the various BLWP's work and their usage, but already in the comments in the 9900 source code is a simple layout of the calling registers used and data to be passed.
 
@@ -27,10 +27,10 @@ Enjoy! 🥳
 * Released April 11th, 2024
 * Uploaded to ti99.atariage.com
 *
-ART-S   -> Original 3D String Art Version 1988
-EA-LIB  -> Nothing important just normal EA Utilities
-FST-S   -> High-Speed 8300 version of String Art
-GDEMO-S -> TIM/AVPC/GENEVE V9938/V9958 Graphics Demo
-MOV-S   -> Moving version of 3D String Art with Sound
-TXT-S   -> Special version of MOV-S to display titles
-VDP-LIB -> OPA VDP V9938 Utilities (Copyrighted 1990)
+* ART-S   -> Original 3D String Art Version 1988
+* EA-LIB  -> Nothing important just normal EA Utilities
+* FST-S   -> High-Speed 8300 version of String Art
+* GDEMO-S -> TIM/AVPC/GENEVE V9938/V9958 Graphics Demo
+* MOV-S   -> Moving version of 3D String Art with Sound
+* TXT-S   -> Special version of MOV-S to display titles
+* VDP-LIB -> OPA VDP V9938 Utilities (Copyrighted 1990)
